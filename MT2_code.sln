@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MT2_code", "MT2_code\MT2_code.vcxproj", "{A953C475-97AD-41AD-91FB-1961533754A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{99A2C452-93B6-4F48-85E8-4F7E4BB1B32F}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A953C475-97AD-41AD-91FB-1961533754A3}.Debug|x64.ActiveCfg = Debug|x64
+		{A953C475-97AD-41AD-91FB-1961533754A3}.Debug|x64.Build.0 = Debug|x64
+		{A953C475-97AD-41AD-91FB-1961533754A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{A953C475-97AD-41AD-91FB-1961533754A3}.Debug|x86.Build.0 = Debug|Win32
+		{A953C475-97AD-41AD-91FB-1961533754A3}.Release|x64.ActiveCfg = Release|x64
+		{A953C475-97AD-41AD-91FB-1961533754A3}.Release|x64.Build.0 = Release|x64
+		{A953C475-97AD-41AD-91FB-1961533754A3}.Release|x86.ActiveCfg = Release|Win32
+		{A953C475-97AD-41AD-91FB-1961533754A3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

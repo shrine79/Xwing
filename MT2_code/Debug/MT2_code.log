@@ -1,0 +1,3 @@
+﻿  hud.cpp
+c:\users\yang\desktop\vit\mt2_code\mt2_code\tie.h(80): warning C4800: 'GLboolean': forcing value to bool 'true' or 'false' (performance warning)
+  MT2_code.vcxproj -> C:\Users\Yang\Desktop\VIT\MT2_code\Debug\MT2_code.exe
